@@ -10,10 +10,10 @@
 
 <img src=![1](https://github.com/danilka2274/Map/assets/131926244/4d1738b4-3c05-431b-892b-3f3b02a039fb) width="200" height="200">
 
-![2](https://github.com/danilka2274/Map/assets/131926244/da061797-7d09-4c22-a74b-064bc80a3b7e)
+<img src=![2](https://github.com/danilka2274/Map/assets/131926244/da061797-7d09-4c22-a74b-064bc80a3b7e) width="200" height="200">
 
-![3](https://github.com/danilka2274/Map/assets/131926244/a165efdc-e909-4f71-ab45-8820270236c3)
+<img src=![3](https://github.com/danilka2274/Map/assets/131926244/a165efdc-e909-4f71-ab45-8820270236c3) width="200" height="200">
 
-![4](https://github.com/danilka2274/Map/assets/131926244/f77d2978-53b8-4629-9633-70598ccfb05c)
+<img src=![4](https://github.com/danilka2274/Map/assets/131926244/f77d2978-53b8-4629-9633-70598ccfb05c) width="200" height="200">
 
-![5](https://github.com/danilka2274/Map/assets/131926244/ab2f9f5a-b20d-4469-ae9f-81c6637474b4)
+<img src=![5](https://github.com/danilka2274/Map/assets/131926244/ab2f9f5a-b20d-4469-ae9f-81c6637474b4) width="200" height="200">
