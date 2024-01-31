@@ -8,7 +8,7 @@
 
 Для навигации приложения была использована библиотека "Navigation component"
 
-<img src=![1](https://github.com/danilka2274/Map/assets/131926244/4d1738b4-3c05-431b-892b-3f3b02a039fb)width="200" height="200">
+<img src=![1](https://github.com/danilka2274/Map/assets/131926244/4d1738b4-3c05-431b-892b-3f3b02a039fb) width="200" height="200">
 
 ![2](https://github.com/danilka2274/Map/assets/131926244/da061797-7d09-4c22-a74b-064bc80a3b7e)
 
