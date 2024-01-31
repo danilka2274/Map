@@ -7,3 +7,5 @@
 Разбиение приложения на data, domain, ui
 
 Для навигации приложения была использована библиотека "Navigation component"
+
+![175858023-4c02709b-f375-4a33-a27f-713e180bca14](https://github.com/danilka2274/Map/assets/131926244/31fae6f7-6a66-4bf8-ae75-c6bbc86cf863)
